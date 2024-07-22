@@ -14,6 +14,9 @@ FocusZone is an application designed to help you maintain focus by blocking dist
 <p>Cross-Platform: Built with Electron for compatibility across different operating systems.</p>
 
 ## How to Run:
+Install Dependencies:
+``npm install``
+
 Run Frontend:
 ``npm run dev``
 
