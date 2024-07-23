@@ -11,7 +11,7 @@ FocusZone is an application designed to help you maintain focus by blocking dist
 <p>Default Blocklist: Automatically blocks games and social media apps when turned on.</p>
 <p>Customizable Blocklists: Tailor your blocking preferences to suit your specific needs.</p>
 <p>Intuitive Interface: User-friendly design to manage and customize app blocking.</p>
-<p>Cross-Platform: Built with Electron for compatibility across different operating systems.</p>
+<p>Cross-Platform: Built with Electron for compatibility across different web browsers.</p>
 
 ## How to Run:
 Install Dependencies:
